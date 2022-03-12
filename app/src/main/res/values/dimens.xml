@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="textSizeRegular">13sp</dimen>
+    <dimen name="error_text_size">11sp</dimen>
+    <dimen name="dimen_five">5dp</dimen>
+    <dimen name="dimen_fifteen">15dp</dimen>
+    <dimen name="dimen10">10dp</dimen>
+    <dimen name="dimen200">200dp</dimen>
+    <dimen name="dimen50">50dp</dimen>
+    <dimen name="dimen20">20dp</dimen>
+    <dimen name="dimen120">120dp</dimen>
+    <dimen name="dimen100">100dp</dimen>
+    <dimen name="dimen25">30dp</dimen>
+    <dimen name="dimen40">40dp</dimen>
+</resources>

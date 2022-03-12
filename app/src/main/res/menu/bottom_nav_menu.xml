@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/generation"
+        android:icon="@drawable/lead_generate"
+        android:title="@string/lead_generation"/>
+    <item
+        android:id="@+id/list"
+        android:icon="@drawable/lead_list"
+        android:title="@string/lead_list"
+        />
+    <item
+        android:id="@+id/dashboard"
+        android:icon="@drawable/dashboard"
+        android:title="@string/dashboard" />
+
+</menu>

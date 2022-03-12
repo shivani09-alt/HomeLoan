@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">HomeLoan</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="enter_mobile_number_val">Enter Contact Number</string>
+    <string name="phone_number_already_exist">Phone Number Already Exist</string>
+    <string name="enter_project_name">Enter Project Name</string>
+    <string name="flatDetails">Flat Details</string>
+    <string name="enter_flat_details">Enter Flat Details</string>
+    <string name="enter_property_cost">Enter Property Cost</string>
+    <string name="enter_loan_requirement">Enter Loan Requirement</string>
+    <string name="first_name">First Name</string>
+    <string name="enter_first_name">Enter First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="enter_last_name">Enter Last Name</string>
+    <string name="project_name">Project Name</string>
+    <string name="contact_number">Contact Number</string>
+    <string name="loan_requirement">Loan Requirement</string>
+    <string name="property_cost">Property Cost</string>
+    <string name="city">City</string>
+    <string name="state">State</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="lead_list">Lead List</string>
+    <string name="lead_generation">Lead Generation</string>
+    <string name="enter_state">Enter your State</string>
+    <string name="enter_city">Enter Your City</string>
+    <string name="add_details">Add Details</string>
+    <string name="add_photos">Upload Photos</string>
+    <string name="select_photos">Select Photos</string>
+    <string name="are_you_sure_you_want_to_save">Are you sure you want to save?</string>
+    <string name="alert">Alert</string>
+    <string name="please_fill_all_feilds">Please fill all the details</string>
+    <string name="click_on_image">(Click on image for  preview)</string>
+    <string name="view_image">View Image </string>
+    <string name="no_data">No Data Available</string>
+
+</resources>
